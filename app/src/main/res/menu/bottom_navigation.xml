@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/nav_favorites"
+        android:icon="@drawable/ic_baseline_view_list_24"
+        android:title="My auctions" />
+    <item
+        android:id="@+id/nav_search"
+        android:icon="@drawable/ic_baseline_cloud_upload_24"
+        android:title="upload auction" />
+
+    <item
+        android:id="@+id/bids"
+        android:icon="@drawable/ic_baseline_emoji_people_24"
+        android:title="Bids" />
+
+    <item
+        android:id="@+id/nav_account"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="My profile" />
+
+</menu>
